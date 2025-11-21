@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>$SOLEN - The Last Venomous Mammal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{margin:0;background:#000 url('https://i.imgur.com/8pK8z3j.jpg') center/cover fixed;color:#0f0;font-family:monospace}
+    .c{text-align:center;padding:15vh 5vw}
+    h1{font-size:12vw;text-shadow:0 0 30px #0f0}
+    .buy{display:inline-block;padding:20px 50px;background:#0f0;color:#000;font-weight:bold;border-radius:50px;box-shadow:0 0 40px #0f0;text-decoration:none;font-size:6vw}
+    iframe{width:96%;height:70vh;margin:40px auto;display:block;border:4px solid #0f0;border-radius:15px}
+  </style>
+</head>
+<body>
+<div class="c">
+  <h1>$SOLEN</h1>
+  <h2>The last venomous mammal just woke up 🦔</h2>
+  <br><br>
+  <a href="https://pump.fun/2Bt5qSWwPWeHBb38EZat6moaB5hosZuiR5SjdRxcpump" class="buy">BUY $SOLEN NOW</a>
+  <br><br>
+  <iframe src="https://dexscreener.com/solana/2bt5qswwpwehbb38ezat6moab5hoszuir5sjdrxcpump?embed=1&theme=dark"></iframe>
+  <p>1B supply • 100% fair • No presale • Dev in chat</p>
+  <p><a href="https://x.com/skynetstop" style="color:#0f0">@skynetstop</a></p>
+  <p>© 2025 solenodon.live - Inject the venom 💉</p>
+</div>
+</body>
+</html>
